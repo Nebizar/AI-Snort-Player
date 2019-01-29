@@ -20,17 +20,6 @@
     <orderEntry type="module" module-name="RulesProvider" />
     <orderEntry type="module" module-name="BoardGameEngine" />
     <orderEntry type="module" module-name="BoardGame" />
-    <orderEntry type="module" module-name="Cleave" />
-    <orderEntry type="module" module-name="Fission" />
-    <orderEntry type="module" module-name="Dominion" />
-    <orderEntry type="module" module-name="LinesOfAction" />
-    <orderEntry type="module" module-name="Kassle" />
-    <orderEntry type="module" module-name="Migration" />
-    <orderEntry type="module" module-name="Minefield" />
-    <orderEntry type="module" module-name="Magneton" />
     <orderEntry type="module" module-name="Snort" />
-    <orderEntry type="module" module-name="GlassBead" />
-    <orderEntry type="module" module-name="Aries" />
-    <orderEntry type="module" module-name="Crusade" />
   </component>
 </module>

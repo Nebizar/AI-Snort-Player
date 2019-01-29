@@ -13,7 +13,7 @@
     </properties>
     <modules>
         <module>NaivePlayer</module>
-        <module>NastyPlayer</module>
+        <module>AlphaBetaPlayer</module>
         <module>NullPlayer</module>
   </modules>
 </project>

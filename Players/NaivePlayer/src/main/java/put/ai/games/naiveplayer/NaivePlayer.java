@@ -24,6 +24,9 @@ public class NaivePlayer extends Player {
     @Override
     public Move nextMove(Board b) {
         List<Move> moves = b.getMovesFor(getColor());
+        for(Move move: moves){
+            System.out.println(move.getClass());
+        }
         return moves.get(random.nextInt(moves.size()));
     }
 }

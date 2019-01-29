@@ -20,7 +20,7 @@
     <orderEntry type="library" scope="TEST" name="Maven: org.mockito:mockito-all:1.9.5" level="project" />
     <orderEntry type="module" module-name="BoardGame" />
     <orderEntry type="module" module-name="NaivePlayer" scope="TEST" />
-    <orderEntry type="module" module-name="NastyPlayer" scope="TEST" />
+    <orderEntry type="module" module-name="AlphaBetaPlayer" scope="TEST" />
     <orderEntry type="module" module-name="BoardGameEngine" />
   </component>
 </module>
